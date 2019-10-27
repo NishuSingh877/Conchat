@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "872430397002",
+    "firebase_url": "https://logindb-e7e39.firebaseio.com",
+    "project_id": "logindb-e7e39",
+    "storage_bucket": "logindb-e7e39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872430397002:android:d480216d3f418a73dd68b3",
+        "android_client_info": {
+          "package_name": "com.example.conchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872430397002-fp9hs2f7bcvdetqqbion4qs426mnflh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqZfqzUX9tFnbs1sw25PK0p8D2nGlJUj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872430397002-olbshf58escvf76d6e8ie4o7f8oei5g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872430397002:android:c79495ff1d87fefd",
+        "android_client_info": {
+          "package_name": "com.example.databaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872430397002-fp9hs2f7bcvdetqqbion4qs426mnflh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqZfqzUX9tFnbs1sw25PK0p8D2nGlJUj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872430397002-olbshf58escvf76d6e8ie4o7f8oei5g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872430397002:android:1aad6d0fc91476c5",
+        "android_client_info": {
+          "package_name": "com.example.notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872430397002-fp9hs2f7bcvdetqqbion4qs426mnflh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqZfqzUX9tFnbs1sw25PK0p8D2nGlJUj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872430397002-olbshf58escvf76d6e8ie4o7f8oei5g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
